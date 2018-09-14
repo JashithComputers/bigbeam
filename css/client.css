@@ -1,6 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-.header-inner {padding:0;}.section{margin:0;}.widget{margin:0;float: left;}
+.header-inner {padding:0;}.section{margin:0;}
+.widget {
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+.widget-content {
+    float: left;
+    width: 100%;
+}
 
 
 body {
